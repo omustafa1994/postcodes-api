@@ -1,4 +1,4 @@
-# postcodes-api
+# Testing of Postcodes API
 
 ### Description
 This code is used for tests against the postcodes api using ruby and httparty. Each part of the array was individually tested against the object type using rspec and each has passed. This is to demonstrate a working understanding how data is retrieved and tested against an API. 
